@@ -6,15 +6,11 @@
 
 ---
 
-## 👥 Integrantes
-
 | Nombre | Carnet | Actividad realizada |
 |--------|--------|---------------------|
-| Susan Daniela Ajú Carrillo | 201612218 | Configuración del repositorio, creación del bot, implementación de los 4 comandos (`/hola`, `/hora`, `/contacto`, `/proyecto`), manejo de variables de entorno, documentación completa en README |
+| Susan Pamela Herrera Monzon | 201612218 | Configuración del repositorio, creación del bot, implementación de los 4 comandos (`/hola`, `/hora`, `/contacto`, `/proyecto`), manejo de variables de entorno, documentación completa en README |
 
 ---
-
-## 📋 Descripción del bot
 
 **MediLogic Assistant Bot** es un mini asistente de Telegram desarrollado en Python para el proyecto de Inteligencia Artificial 1. El bot provee información instantánea sobre el proyecto MediLogic, el integrante del grupo y la hora actual en Guatemala.
 
@@ -22,7 +18,7 @@ Está construido con la librería `python-telegram-bot` v21 (arquitectura asínc
 
 ---
 
-## ⚙️ Lista de comandos
+## Lista de comandos
 
 | Comando | Descripción |
 |---------|-------------|
@@ -33,7 +29,7 @@ Está construido con la librería `python-telegram-bot` v21 (arquitectura asínc
 
 ---
 
-## 🚀 Instrucciones de instalación y ejecución
+## Instrucciones de instalación y ejecución
 
 ### 1. Clonar el repositorio
 
