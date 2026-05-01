@@ -29,77 +29,8 @@ Está construido con la librería `python-telegram-bot` v21 (arquitectura asínc
 
 ---
 
-## Instrucciones de instalación y ejecución
 
-### 1. Clonar el repositorio
+## Link del grupo de Telegram
 
-```bash
-git clone https://github.com/<tu-usuario>/IA1_Tarea5_Grupo#.git
-cd IA1_Tarea5_Grupo#
-```
+ https://t.me/+ns65VhM6M6M2MzUx
 
-### 2. Crear entorno virtual e instalar dependencias
-
-```bash
-python -m venv venv
-
-# Windows
-venv\Scripts\activate
-
-# Linux / macOS
-source venv/bin/activate
-
-pip install -r requirements.txt
-```
-
-### 3. Configurar el token
-
-```bash
-cp .env.example .env
-```
-
-Edita el archivo `.env` y reemplaza el valor con tu token real de BotFather:
-
-```
-TELEGRAM_BOT_TOKEN=TU_TOKEN_AQUI
-```
-
-> ⚠️ **IMPORTANTE:** Nunca subas el archivo `.env` a GitHub. Está incluido en `.gitignore`.
-
-### 4. Ejecutar el bot
-
-```bash
-python bot.py
-```
-
----
-
-## 🛠️ Tecnologías utilizadas
-
-- **Python 3.10+**
-- **python-telegram-bot 21.6** — Framework asíncrono para bots de Telegram
-- **python-dotenv 1.0.1** — Gestión de variables de entorno
-- **pytz 2024.1** — Manejo de zonas horarias
-
----
-
-## 📁 Estructura del repositorio
-
-```
-IA1_Tarea5_Grupo#/
-├── bot.py            # Código fuente del bot
-├── requirements.txt  # Dependencias Python
-├── .env.example      # Plantilla de configuración (sin token real)
-├── .gitignore        # Archivos excluidos del repositorio
-└── README.md         # Este archivo
-```
-
----
-
-## 🔗 Link del grupo de Telegram
-
-> _[Enlace al grupo de Telegram donde el bot está activo]_
-
----
-
-*Tarea 05 — Inteligencia Artificial 1 — 2026*
